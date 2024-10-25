@@ -1,2 +1,2 @@
 # mi-lab
-Übungen, Materialien für die Lehre in der Medizinischen Informatik
+Exercises, materials for teaching medical informatics with the help of a virtual learning environment
