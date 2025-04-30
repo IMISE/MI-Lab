@@ -2,7 +2,7 @@
 Exercises, materials for teaching medical informatics with the help of a virtual learning environment.
 
 | Description | Repo Link | Learning Objective |
-| --- | --- |
+| --- | --- | --- |
 | Annotation of data elements in data dictionaries | [MI-Lab-E01-Annotation](https://github.com/IMISE/MI-Lab-E01-Annotation) | [CMI 1.6.1.2](https://hilona.de/index.php/LZ-PIN_40109) |
 | Integration of local data into the FHIR Common Data Model | [MI-Lab-E02-CSV-to-FHIR](https://github.com/IMISE/MI-Lab-E02-CSV-to-FHIR) | [CMI 1.3.2.3](https://hilona.de/index.php/LZ-PIN_40037) |
 | Pseudonymization and anonymization of personal data | [MI-Lab-E03-Privacy](https://github.com/IMISE/MI-Lab-E03-Privacy) | [CMI 3.1.5.3](https://hilona.de/index.php/LZ-PIN_60171) |
