@@ -1,0 +1,6 @@
+remote_theme: pages-themes/minimal@v0.2.0
+title: MI-Lab Übungen
+description: Übungen, Materialien für die Lehre in der Medizinischen Informatik.
+plugins:
+- jekyll-remote-theme 
+
